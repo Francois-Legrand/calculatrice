@@ -1,0 +1,22 @@
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+}
+#affichage{
+    background-color: black;
+    color: white;
+    width: 168px;
+    height: 20px;
+    
+}
+.row{
+    display: flex;
+    width: 200px;
+}
+p{
+    text-align: right;
+}
+button{
+    width: 40px;
+}
